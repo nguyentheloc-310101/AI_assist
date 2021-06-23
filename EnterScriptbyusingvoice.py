@@ -1,4 +1,4 @@
-# mọi thắc mắc xin liên hệ https://www.facebook.com/tranvinhthienan
+
 
 import speech_recognition
 #from gtts import gTTS
@@ -50,4 +50,3 @@ if __name__ == "__main__":
 	guiFrame = GUI()    
 	guiFrame.mainloop()
 
-# mọi thắc mắc xin liên hệ https://www.facebook.com/tranvinhthienan
